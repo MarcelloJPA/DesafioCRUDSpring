@@ -1,1 +1,2 @@
-[📄 Visualizar PDF](03 DESAFIO CRUD de clientes.pdf)
+<img src="imagens/diagrama-relacionamento.png" width="500">
+
